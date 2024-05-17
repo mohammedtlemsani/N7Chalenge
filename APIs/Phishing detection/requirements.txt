@@ -1,0 +1,15 @@
+numpy
+pandas
+tldextract
+beautifulsoup4
+Flask
+googlesearch_python
+numpy
+pandas
+python_dateutil
+requests
+scikit_learn
+whois
+gunicorn
+flask
+flask_cors

@@ -1,0 +1,9 @@
+# libxslt
+# libxml2
+redbox
+flask
+flask_cors
+jwt
+python-dateutil
+requests
+beautifulsoup4
